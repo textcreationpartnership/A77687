@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The strength and power of God manifested (in the creatures weakness) against the hard judgment and judgments of cruel and unreasonable minded men ...</title>
+            <author>Baker, Richard, d. 1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77687</idno>
+            <idno type="STC">Wing B514C</idno>
+            <idno type="STC">ESTC R223011</idno>
+            <idno type="EEBO-CITATION">45578135</idno>
+            <idno type="OCLC">ocm 45578135</idno>
+            <idno type="VID">172095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172095)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2614:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The strength and power of God manifested (in the creatures weakness) against the hard judgment and judgments of cruel and unreasonable minded men ...</title>
+                  <author>Baker, Richard, d. 1697.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: R.B.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172095:1" rendition="simple:additions"/>
+            <head>The ſtrength and power of God manifeſted <hi>[in the creatures weakneſs]</hi> againſt the hard judg<g ref="char:EOLhyphen"/>ment and judgments of cruel and unreaſonable minded men, (in <hi>and of the World, and Worlds ſpirit, and worldly cenſures</hi>); whoſe raſhneſs and haſtineſſe <hi>[therein]</hi> againſt the innocent, God hath found out a way to overcome and ſub<g ref="char:EOLhyphen"/>ject (even patience and endurance <hi>[of and under ſufferance]</hi> in the quiet and meek Life and Spi<g ref="char:EOLhyphen"/>rit of the Lamb of the Fathers Glory) the fury and rage of man, that turneth to the praiſe and glory of God; and returns the evill and miſchief [thereof] on their own heads (as the remainder of what more of the rage and fury <hi>[of mans cru<g ref="char:EOLhyphen"/>elty]</hi> than makes for ſuch honour and praiſe of God and his creatures good) he doth <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> And</head>
+            <div type="author_to_the_reader">
+               <head>The Epiſtle or Preface to the Reader <hi>ſignifieth,</hi>
+               </head>
+               <p>That the Glory of God was and is diſcov<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> re<g ref="char:EOLhyphen"/>vealed <hi>[in the world]</hi> in the ſuffering ſpirit and princi<g ref="char:EOLhyphen"/>ple <hi>[in the Sons life]</hi> that magnifieth the power and wiſ<g ref="char:EOLhyphen"/>dome that ſent and brought him hither (to that ſame end <hi>(that as he was and is heir of his Fathers ſufferance, and we have been made partakers thereof with him;)</hi> ſo alſo we may be heirs and partakers with him <hi>[together]</hi> to Glory <hi>[for evermore;]</hi> even with that glory the Son of God was glorified in <hi>[with the Father of Spirits]</hi> before the World began) in the enlargement of the Seed and Spirit of God: And that <hi>as Chriſt our life hath or doth appear [in the World, and Worlds eye and ſight of eſteem] ſo we might appear with him in glory:</hi> Though it is the end of ſuch his ſufferance <hi>[in ſpirit]</hi> that manifeſteth and revealeth the glory <hi>[thereof]</hi> in fleſh; in that until his ſufferance <hi>[in ſpirit]</hi> begins to draw to a period <hi>(in the fleſh of his Creatures)</hi> and ſome
+<pb n="2" facs="tcp:172095:2" rendition="simple:additions"/>end to be put thereto; the end of the Law, nor of tranſgreſſion <hi>[for which cauſe it was added]</hi> is not nor cannot come up <hi>[in the world]</hi> that the ordainer of all may be praiſed <hi>[in his Creature]</hi> in the beginning and end of all holy determination (in the coun<g ref="char:EOLhyphen"/>ſel of that will and workings of the mighty power that exalteth the wiſdome of the worker and contriver of all purpoſes that therein ſtand); nor can it be ſeen [in the world] to what end the Juſt was ſent and came hither <hi>[a ſufferer for and in the Crea<g ref="char:EOLhyphen"/>ture, in the ſtate of the unjuſt,)</hi> but as the witneſſe of ſuch end of his <hi>ſufferance</hi> comes and appears, <hi>in ſuch the Creature,</hi> in the Fa<g ref="char:EOLhyphen"/>thers Glory: The Myſterie of which hath been and is hid <hi>from the World and Worlds ſence,</hi> in our lifes ſufferance, and alſo joy and rejoycing <hi>[in that Glory]</hi> that hath been hid with Chriſt in God, until the ſalvation of God ſprung up from the morning of the everlaſting day of God, and glad-tydings <hi>(to the poor and im<g ref="char:EOLhyphen"/>priſoned captive of hope)</hi> to ariſe from the dawning of its bright<g ref="char:EOLhyphen"/>neſſe <hi>[in the earth and world]</hi> and deliverance to the Seed and Spirit of God, and ſoul and life of his Creature (that there hath been a wall of ſeparation between <hi>(in the night of obſcurity and darkneſſe, that hath overtaken and overſpread the world)</hi> where<g ref="char:EOLhyphen"/>by that glory hath been vailed and darkned) broke forth in the power of an endleſſe life, to the diſperſing and driving back the thick cloud of the worldly miſts and foggs of ignorance and blindneſs of mind (wherein the underſtanding of the Creature hath been ſtupefied under groſſe thick darkneſs, and unity of ſpi<g ref="char:EOLhyphen"/>rit <hi>[between God and his Creature]</hi> kept from,) to the aſtoniſh<g ref="char:EOLhyphen"/>ment of many beholders of that Glory, in the appearance of Chriſt <hi>[in his Life and Spirit of truth]</hi> that worketh the work <hi>[his own work that doth praiſe him]</hi> to ſee what breaketh forth of the work of power and wiſdome <hi>[that brakes down the wall,]</hi> and brings up the life and ſpirit of reconciliation <hi>[in and to the crea<g ref="char:EOLhyphen"/>ture]</hi> in the mind and will of his Maker and Creator; whereby that which hath been done in ſecret may be manifeſt openly, and what was ſpoken in the ear, preached on the houſe top, and declared abroad in the world, <hi>&amp;c.</hi> (though <hi>if our Goſpel be hid, it is hid to them that are loſt; in whom the God of this world hath blinded their eyes, leaſt the light of the glorious Goſpel</hi> [which in them that periſh is a myſterie unrevealed] <hi>ſhine in their dark
+<pb n="3" facs="tcp:172095:2" rendition="simple:additions"/>hearts; and God who commanded the light to ſhine out of darkneſs, ſhine</hi> [in] <hi>there, to give the knowledge of God in the face of Jeſus;)</hi> and wherein the refreſhments from the preſence of God (that hath been often ready to break forth <hi>(in the brightneſſe of the Majeſty of ſuch Glory, in which is endleſſe praiſes to the higheſt,)</hi> hath been hindred and clouded <hi>[in the ſoul]</hi> by the ſtraitning, li<g ref="char:EOLhyphen"/>miting ſpirit and power of the world, ſuch groſs thick darkneſs and blindneſs of mind <hi>(wherein they have been groaping for the walls, as the blind at Noon-dayes,)</hi> in their imaginary Faith and Doctrines (of, and concerning, God, and Chriſt, and Heaven, <hi>&amp;c.</hi> in the black night of Apoſtacy and back-ſliding from God and his Spirit of truth <hi>[in the heart]</hi> into and after the errour of the wicked, in the falſity of a miſ-led judgment (in their giving forth their meanings and private interpretations on Scriptures of truth (that were ſpoken in and according to the motions and riſings up of that Spirit &amp; Life, that had in honour and reſpect <hi>(for the Lords ſake)</hi> the thing or things contended for. For as to</p>
+            </div>
+            <div type="part">
+               <head>The ſtrength and power of God experienced in the Creatures weakneſſe.</head>
+               <p>
+                  <note place="margin">Introduct.</note> IT alwayes hath been and is manifeſted in the ſuffer<g ref="char:EOLhyphen"/>ing life <hi>(of the Fathers will and wiſdome of good plea<g ref="char:EOLhyphen"/>ſure,)</hi> wherein the weakneſs and emptineſſe and nothingneſs <hi>[of the creature]</hi> doth exalt and magnifie the praiſe and glory of God <hi>[his Maker and Creator,]</hi> and is that in which God doth delight to glory, as what makes for his own honour (in the worthineſs of that one that debaſeth himſelf to the duſt <hi>[for the creatures good]</hi> to the bringing him back into unity of ſpirit <hi>[with that one]</hi> in which is a good and glory that is everlaſting, and a rejoycing <hi>[therein]</hi> that is endleſs <hi>(in God over all bleſſed for evermore;)</hi> that into the ſenſe hereof the creature may come, and in that may dwell and ſit down <hi>(and count what is before them, and alſo what is behind)</hi> that empties the creature of all, and brings out of all conceitedneſs and exaltation and heighth of ſpirit, to ſee the nothingneſs and emptineſs and worthleſsneſs of the creature in himſelf <hi>(in a ſtate he is fallen in and under, and into the nature of which he is degenerated, and with the ſpirit and life of which he hath adulterated)</hi> that God may be all in all <hi>[unto and in the crea<g ref="char:EOLhyphen"/>ture]</hi>
+                  <pb n="4" facs="tcp:172095:3" rendition="simple:additions"/>and his honour and glory over all exalted <hi>[for ever and ever]</hi> that is thus worthy; where that glory <hi>[only]</hi> can be and is prized and eſteemed <hi>[that is endleſs;]</hi> and without which <hi>[ſence]</hi> he worth and glory &amp; value thereof remains unknown, or unſought-for.</p>
+               <p>Therefore, Concerning the ſufferance of God <hi>[by his ſpirit]</hi> in the creature, conſider <hi>(in the fear of God)</hi> hat nothing is ſuffered to work againſt the innocen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>(in this day,)</hi> but what makes for the praiſe and glory of God <hi>(that ſo ſuffereth it;)</hi> for the remainer <hi>(of what more than makes for his praiſe and glory in ſufferance)</hi> he did and doth reſtrain; and then is praiſed and glorified <hi>(in that work of reſtraint)</hi> over the Elements, and other unſenſible creatures, that are more obedient to the work of his Spirit and Powers requirings, than his creature Mankind, <hi>againſt whom the Oxe and Aſs are called witneſſes, and the Sea (that keeps its bounds (when to the proud ſwelling waves it is ſaid, Ye ſhall not ſurpaſs your limit; for hitherto ſhall ye go, and no further)</hi> and every creature in like manner, and in their place, teſtifieth againſt man <hi>(in the fall and tranſgreſſion againſt God;)</hi> as was ſeen of old, when the wa<g ref="char:EOLhyphen"/>ters witneſſed againſt the world they overtook (in the oldneſs of that ſtate <hi>[of ſinning and rebelling againſt God,]</hi>) and againſt <hi>Pha<g ref="char:EOLhyphen"/>roah</hi> and his Hoſt <hi>(as did the fire againſt Sodom and Gomorrah;)</hi>
+               </p>
+               <p>And always did the creatures reſiſtance of, and ſtriving againſt Gods Spirit and Judgment, ſtrengthen it againſt himſelf, &amp; Gods Glory appeared in the deliverance of his own Seed <hi>(in his own way and time)</hi> the more glorious and excellent <hi>(for the ſake of the patience of his Saints and children (in his Spirit and Spirits work) he ſuffered the enemy and enemies work to come forth and exalt ſelf in,)</hi> that over all glory and excellency that might be exalted <hi>(that was and is worthy of endleſs praiſe and glory,)</hi> which ſhould be ſatisfaction to all the upright in heart <hi>(whoſe cauſe is Gods, and left with him to plead)</hi> that they may be kept from fretting under the ſame <hi>(the fret of the wicked)</hi> in envying their proſperity; but in the midſt thereof may rejoyce, that for righteouſneſs ſake they are found worthy ſo to do; and if it be not <hi>for that,</hi> the leſs cauſe have they to be angry and diſcontented and offended;) for God is praiſed and glorified <hi>(by and in his own works (on his creature)</hi> in his and their ſpirits ſufferance (that thereby manifeſteth the patience of ſuch his Spirits work, and of his Saints in whom it thus
+<pb n="5" facs="tcp:172095:3"/>works <hi>(in Gods forbearance of executing tht fierceneſſe of judgment on the world, and unreaſonable minded in their cruelty;)</hi> who by ſufferance and endurance, is now come forth to conquer <hi>that,</hi> which by the ſtrength of deſire of that life <hi>(the glory of God was firſt concerned in)</hi> once awakened the fury of ſuch Gods judg<g ref="char:EOLhyphen"/>ment <hi>(in what was the pain and death of the creature;)</hi>
+                  <note place="margin">Mark, the prayer and deſire of the righteous <hi>[in all ages and generations]</hi> moved and awaken'd God <hi>[in judgment]</hi> againſt the world <hi>(in that ſtate of wickedneſs it lyes;)</hi> and that miniſtration was glorious, to the awakening a witneſs for God <hi>[in his creature]</hi> againſt what Gods Judgments were bent, and over which they were ex<g ref="char:EOLhyphen"/>alted (which made Chriſt ſay to the <hi>Phariſees [of old] he could pray the Father, and he would ſend more than twelve Legions of Angels to deliver him;</hi> and to his Diſ<g ref="char:EOLhyphen"/>ciples <hi>(that would have had fire come down from Heaven, and conſume their enemies) they knew not what ſpirits they were of;)</hi> for he came not to deſtroy mens lives; but to ſave it; and God was in him <hi>[mark that,]</hi> before the world began, recon<g ref="char:EOLhyphen"/>ciling it to himſelf.</note> which he ſuffered to work and come forth <hi>(in the world)</hi> in enmity againſt his Spirit, to honour and praiſe and exalt his Judgment, and the juſtice and juſtneſs thereof (againſt the offenders, that refuſed to be warned by gentle and light corrections and af<g ref="char:EOLhyphen"/>flictions <hi>(that are the chaſtiſements of Gods children, and is it which makes chaſt to God, where a virgin ſtate and birth (thereof) is known and witneſſed (in the world) in his Spirits leading and guidance (that learned obedience by the things he ſuffered.)</hi>
+               </p>
+               <p>And all theſe things were written for our admonition and inſtruction <hi>)on whom the ends of the earth are come,)</hi> that have believed the report of ſuch that gave teſtimony concerning the work of that Spirit <hi>(or of God who is a Spirit):</hi> And though by their faith mighty works and things <hi>(of old)</hi> were done, even Lyons mouths ſtopt, and the rage of devouring fire quenched, <hi>&amp;c.</hi> and they all dyed in the faith of the work of God (by and in that Spirit,) yet the work was Gods <hi>(even that of the reſtraining power and wiſdome of the worker,)</hi> and he only was worthy of, and had the praiſe thereof, that fleſh might not glory; therefore had not they received the promiſe of God <hi>(in the glory of what he determined to rejoyce in)</hi> he having provided ſome better thing for us, that they without us ſhould not be made perfect (mark, without us ſhould not; and a more better thing and glorious day <hi>(that they deſired to ſee,
+<pb n="6" facs="tcp:172095:4"/>and ſaw not, no not one of thoſe dayes we ſee)</hi> hath appeared, and is manifeſt <hi>(in the world,)</hi> and yet the world are under-valuing the glorious appearance of God <hi>(in our day and age,)</hi> becauſe of their own blindneſs and hardneſs of heart, and would make it leſſe or the leaſt of and in any Age and Generation of the world; and think the work of God perfected in their faith and belief of ſom<g ref="char:EOLhyphen"/>thing already done <hi>(without them)</hi> many years paſt, as the work of a body without a ſpirit (as is their faith <hi>(therein)</hi> without the work of that Spirit) dead.</p>
+               <p>This therefore is my advice unto the world and all people <hi>(therein),</hi> to return to the Lord (in that ſuffering ſpirit <hi>(which of old carryed many through great tryals and cruel ſufferance;)</hi> and conquered the power and pain of death, and other grievous af<g ref="char:EOLhyphen"/>flictions they were called to, and paſſed through <hi>(who were faith<g ref="char:EOLhyphen"/>ful to the requirings thereof;)</hi> and they had the joy thereof, as well in ſufferance and endurance (of what thereby they were cal<g ref="char:EOLhyphen"/>led to <hi>(for the tryal of their faith)</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in experience of deliverance (by the work of the ſame <hi>(Spirit)</hi> through their faith;) where<g ref="char:EOLhyphen"/>in was and is deliverance witneſſed <hi>(under ſufferance and endu<g ref="char:EOLhyphen"/>rance of whatever makes for the exalting the judgment of God;)</hi> though the thing be ſuffered and endured <hi>(in obedience to the call and requirings of God (by his Spirit) the world &amp; ſelf are taking oc<g ref="char:EOLhyphen"/>cation at:)</hi> Therefore, haſte, haſte, to meet the Lord by repent<g ref="char:EOLhyphen"/>ance, that into the ſuffering life of God all may come to be bended <hi>(that hath been exalted over the ſame)</hi> and in it may have a ſence and feeling of the work of truth <hi>(by the Spirit of God wrought and working in the heart;)</hi> and of its ſufferance, by what hath darkened the Judgment <hi>(of Creatures)</hi> and miſ-lead their minds <hi>(in the ſpirit of the World, and errour of miſ-lead Judg<g ref="char:EOLhyphen"/>ments.)</hi>
+               </p>
+               <closer>
+                  <signed>R. B.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
